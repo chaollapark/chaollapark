@@ -1,4 +1,5 @@
 ## 54 years left to live | pivoting
 
-- 🔭 running vanipedia (the hare krishna wikipedia)
 - 🌱 pivoting
+- 🔭 running vanipedia (the open source hare krishna wikipedia)
+- 🥲 sold my website eujobs
